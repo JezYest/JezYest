@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JezYest
+- 👋 Hi, I’m Yadira Estrada
 - 👀 I’m interested in ... learn
 - 🌱 I’m currently learning ... Python and Flutter
 - 💞️ I’m looking to collaborate on ... Projects
